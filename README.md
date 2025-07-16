@@ -59,7 +59,7 @@ We then filtered our data again to find how many each vendor reported. Is there 
                     MONTAUK STUDENT TRANS LLC (B2192)        1
                     VINNY`S BUS SERVICES (B2321)             1
 
-But, were mechanical problems the top reason for bus delays?
+Were mechanical problems the top reason for bus delays?
 
                     Heavy Traffic: 18,143
                     Other: 4,078
